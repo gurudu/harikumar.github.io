@@ -4,7 +4,7 @@ const Profile = props => {
     const profileObj = props.profileData;
     return  <div>
                   <div className="profileImg"><img role="presentation" className="img-circle center-block" src={profileObj.picture} width="200" /></div>
-                  <h1 className="text-center">{profileObj.name}</h1>
+                  <h2 className="text-center">{profileObj.name}</h2>
                   <h4 className="text-center">{profileObj.label}</h4>
                   <div className="divider"></div>
                   <ul className="list-unstyled contact-links text-center">
@@ -21,6 +21,7 @@ const Profile = props => {
                   <div className="divider"></div>
                   <p>Download resume:</p>
                   <li><a href="resume/Hari-Gurudu-CV-Aug-2017.json" download>in JSON format</a></li>
+
             </div>
 };
 

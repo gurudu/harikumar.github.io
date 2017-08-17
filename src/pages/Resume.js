@@ -27,8 +27,8 @@ const Resume = () => {
               <main className="col-md-8">
                 <div className="inner">
                   <About aboutData={aboutData} />
-                  <Work workData={workData} />
                   <Skills skillsData={skillsData} />
+                  <Work workData={workData} />
                   <Education educationData={educationData} />
                 </div>
               </main>

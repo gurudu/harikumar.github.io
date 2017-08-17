@@ -4,7 +4,7 @@ const projectsData = [
       date: '2017',
       github_url: 'https://github.com/gurudu/harikumar.github.io',
       project_url: 'https://hari-gurudu-portfolio.herokuapp.com/',
-      background: 'This is my brand new react application using create-react-app and which presents the details of my projects and skills ',
+      background: 'This is my brand new react application using create-react-app and which presents the details of my projects and skills. ',
       role: 'Front-end Developer',
       tech_stack: ['React.js','ES6','SCSS','heroku']
 },
@@ -22,7 +22,7 @@ const projectsData = [
   date: '2017',
   github_url: '',
   project_url: '',
-  background: 'Math Equation editor allows the user to enter Scientific equations into the rich text editor ',
+  background: 'Math Equation editor allows the user to enter Scientific equations into the rich text editor. ',
   role: 'Front-end Developer and TDD',
   tech_stack: ['HTML5','CSS3','TypeScript','ES6','Angular 4','AngularMaterial','SCRUM','e2eTesting(Jasime and Protractor)']
 
@@ -32,7 +32,7 @@ const projectsData = [
   date: '2017',
   github_url: '',
   project_url: '',
-  background: 'This application allows us to save,post,update and delete a message ',
+  background: 'This application allows us to save,post,update and delete a message. ',
   role: 'Full-stack Developer',
   tech_stack: ['HTML5','CSS3','TypeScript','ES6','Angular 4','Node.js','ES6','express','MongoDB','RESTfulAPI']
 
