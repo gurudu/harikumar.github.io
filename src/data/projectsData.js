@@ -20,21 +20,21 @@ const projectsData = [
 {
   title: 'Math Equation editor(SciFlow GmBH)',
   date: '2017',
-  github_url: '',
+  github_url: 'https://github.com/gurudu/math-equation-editor',
   project_url: 'https://www.sciflow.net/',
   background: 'Math Equation editor allows the user to enter Scientific equations into the rich text editor. ',
   role: 'Front-end Developer and TDD',
-  tech_stack: ['HTML5','CSS3','TypeScript','ES6','Angular 4','AngularMaterial','SCRUM','e2eTesting( Jasmine and Protractor )']
+  tech_stack: ['HTML5','CSS3','TypeScript','ES6','Angular','AngularMaterial','SCRUM','e2eTesting( Jasmine and Protractor )']
 
 },
 {
   title: 'Sample MEAN stack application',
   date: '2017',
-  github_url: '',
+  github_url: 'https://github.com/gurudu/Sample-MEAN-app',
   project_url: '',
   background: 'This application allows us to save,post,update and delete a message.This application is in progress, please visit later.',
   role: 'Full-stack Developer',
-  tech_stack: ['HTML5','CSS3','TypeScript','ES6','Angular 4','Node.js','ES6','express','MongoDB','RESTfulAPI']
+  tech_stack: ['HTML5','CSS3','TypeScript','ES6','Angular','Node.js','ES6','express','MongoDB','RESTfulAPI']
 
 }
 ];
