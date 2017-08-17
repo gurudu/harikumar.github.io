@@ -49,7 +49,7 @@ h3 {
 }
 
 .main-app-container {
-  padding-top: 2em;
+  padding-top: 0em;
 }
 
 .main-app-nav {
@@ -113,6 +113,7 @@ h3 {
   background-color: $color-snow;
   flex: 0 2 auto;
   height: 100%;
+
 }
 
 .github-info {
@@ -123,26 +124,25 @@ h3 {
 }
 
 footer {
+  position: fixed;
   font-size: 0.75em;
-  text-align: center;
-  padding-top: 5vh;
-
-  a {
-    text-decoration: none;
-    color: inherit;
-
-    &:hover {
-      color: $accent-blue;
-    }
-  }
-
+  padding: 10px 20px;
+  line-height: 20px;
+  width: 100%;
+  right:0px;
+  bottom:0px;
+  text-align: right;
+  color: #fff;
+  background-color: #ad33ff;
+  background-image: none !important;
+}
   #heart{
     color: $accent-red;
   }
 }
 
 .header {
-  background-color: $header-background-color;
+  background-color: #cc00ff;
   background-image: none !important;
   box-shadow: 0 8px 6px -6px rgba(0,0,0, .2);
 
@@ -154,7 +154,6 @@ footer {
   font-size: 1.1em;
   margin-top: -5px;
 }
-
 
 ul.nav{
   display:inline-flex;
@@ -204,10 +203,10 @@ ul.nav{
 
 
 .introduction {
-  background-color: $accent-gray;
+  background-color: #e1e0dd;
   padding: 1vh 1vw 1vh 1vw;
   margin-bottom: 2em;
-  margin-top: 2em;
+  margin-top: 0em;
 }
 
 .navbar-brand {
@@ -218,8 +217,8 @@ ul.nav{
 }
 
 .profile-pic{
-      height: 15em;
-      width:  auto;
+  height: 11em;
+  width: 10em;
     }
 .divider {
   padding: 10px 20px 0 20px;
@@ -242,6 +241,8 @@ ul.nav{
 }
 .skills-list li {
   font-size: 18px;
+  margin-right: 5px;
+  margin-bottom: 6px;
 }
 .workDates {
   color: #777;

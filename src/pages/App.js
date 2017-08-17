@@ -14,7 +14,9 @@ class App extends Component {
           <Header />
         <div className="introduction row">
         <div className="col-md-8">
-          <h3 >Hi, I am Hari Kumar. <br/> I am an enthusiastic and passionate web developer.</h3> <br/>
+           <br />
+           <br />
+          <h3>Hi, I am Hari Kumar. <br/> I am an enthusiastic and passionate web developer.</h3> <br/>
 
            </div>
            <div className="col-md-4">
