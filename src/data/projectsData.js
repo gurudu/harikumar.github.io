@@ -32,7 +32,7 @@ const projectsData = [
   date: '2017',
   github_url: '',
   project_url: '',
-  background: 'This application allows us to save,post,update and delete a message. ',
+  background: 'This application allows us to save,post,update and delete a message.This application is in progress, please visit later.',
   role: 'Full-stack Developer',
   tech_stack: ['HTML5','CSS3','TypeScript','ES6','Angular 4','Node.js','ES6','express','MongoDB','RESTfulAPI']
 
