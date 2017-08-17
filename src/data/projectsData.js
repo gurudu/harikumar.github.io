@@ -24,7 +24,7 @@ const projectsData = [
   project_url: 'https://www.sciflow.net/',
   background: 'Math Equation editor allows the user to enter Scientific equations into the rich text editor. ',
   role: 'Front-end Developer and TDD',
-  tech_stack: ['HTML5','CSS3','TypeScript','ES6','Angular 4','AngularMaterial','SCRUM','e2eTesting(Jasime and Protractor)']
+  tech_stack: ['HTML5','CSS3','TypeScript','ES6','Angular 4','AngularMaterial','SCRUM','e2eTesting( Jasmine and Protractor )']
 
 },
 {
