@@ -21,7 +21,7 @@ const projectsData = [
   title: 'Math Equation editor(SciFlow GmBH)',
   date: '2017',
   github_url: '',
-  project_url: '',
+  project_url: 'https://www.sciflow.net/',
   background: 'Math Equation editor allows the user to enter Scientific equations into the rich text editor. ',
   role: 'Front-end Developer and TDD',
   tech_stack: ['HTML5','CSS3','TypeScript','ES6','Angular 4','AngularMaterial','SCRUM','e2eTesting(Jasime and Protractor)']
