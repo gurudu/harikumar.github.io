@@ -27,7 +27,7 @@
 			"startDate": "2017-02-01",
 			"endDate": "2017-05-20",
 			"summary": "I worked as a front-end web developer,for web based scientific reporting app,SciFlow. I also had experience in testing with Jasmine and Protractor. During the internship, I have succeessfully coped with fast-paced Agile software methodology, SCRUM. In this role, I have been exposed to enterprise Agile development tools: Confluence and JIRA , version control :GitLab.",
-			"highlights": ["HTML5", "CSS3", "TypeScript", "ES6", "Angular 4", "Angular Material", "SCRUM", "e2e Testing(Jasime and Protractor)"]
+			"highlights": ["HTML5", "CSS3", "TypeScript", "ES6", "Angular 4", "Angular Material", "SCRUM", "Testing(Jasmine and Protractor)"]
 		},
 		{
 			"company": "Amptronics systems pvt. ltd",
@@ -36,7 +36,7 @@
 			"website": "http://www.amptronics.com/",
 			"startDate": "2013-01-01",
 			"endDate": "2014-01-01",
-			"summary": "Software development in Embedded systems projects based on ARM core based, 8-bit Microcontrollers and sen",
+			"summary": "Software development in Embedded systems projects based on ARM core based as well as 8-bit Microcontrollers.",
 			"highlights": ["C", "C++"]
 		}
 	],

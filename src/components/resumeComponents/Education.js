@@ -14,6 +14,7 @@ const Education = props => {
           <div key={index}>
             <h3>{item.studyType}, {item.area}</h3>
   				  <h4>{item.institution}</h4>
+            <h6>{item.location}</h6>
   				  <p>Study: {startdate} - {enddate}</p>
   				</div>
         )
