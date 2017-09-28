@@ -14,14 +14,14 @@ const Profile = props => {
                   <div className="divider"></div>
                   <ul className="profileLinks list-inline text-center">
                     {/*<li><a className="fa fa-twitter fa-2x" href={'https://twitter.com/'+profileObj.profiles[0].username}></a></li>*/}
-                    <li><a className="fa fa-github fa-2x" href={'https://github.com/'+profileObj.profiles[0].username} target="_blank"></a></li>
+                    <li><a className="fa fa-github fa-2x" href={'https://github.com/'+profileObj.profiles[0].username} target="_blank" rel="noopener noreferrer"></a></li>
                   </ul>
                   <div className="divider"></div>
-                  <p>I built this page with <a href="https://facebook.github.io/react/" target="_blank">React</a> components and a <a href="https://jsonresume.org/schema/" target="_blank">JSON Resume Schema</a>. The full source code can be found in <a href="https://github.com/gurudu/harikumar.github.io" target="_blank">my Github repo</a>.</p>
+                  <p>I built this page with <a href="https://facebook.github.io/react/" target="_blank" rel="noopener noreferrer">React</a> components and a <a href="https://jsonresume.org/schema/" target="_blank">JSON Resume Schema</a>. The full source code can be found in <a href="https://github.com/gurudu/harikumar.github.io" target="_blank">my Github repo</a>.</p>
                   <div className="divider"></div>
                   <p>Download resume:</p>
-                  <li><a href="resume/Hari-Gurudu-CV-Aug-2017.json" download>in JSON format</a></li>
-
+                  <li><a href="resume/Hari-Gurudu-CV-Sep-2017.json" download>in JSON format</a></li>
+                  <li><a href="resume/Hari-Gurudu-CV-Sep-2017.pdf" download>in PDF format</a></li>
             </div>
 };
 
