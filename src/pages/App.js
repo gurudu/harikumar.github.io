@@ -17,7 +17,7 @@ class App extends Component {
            <br />
            <br />
            <h2>Hi, I am Hari Kumar.</h2>
-          <h3>I am an enthusiastic and passionate web developer. I love developing websites, learning  <br/> new technologies and harnessing them to create new and exciting things.</h3> <br/>
+          <h3>I am an enthusiastic and passionate web developer. I love developing websites, learning new technologies and harnessing them to create new and exciting things.</h3> <br/>
           <h5>Please click on <strong>"About"</strong> for more details.</h5>
            </div>
            <div className="col-md-4">
