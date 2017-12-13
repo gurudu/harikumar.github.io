@@ -16,8 +16,7 @@ class App extends Component {
         <div className="col-md-8">
         
            <h2>Hi, I am Hari Kumar.</h2>
-          <h3>I am an enthusiastic and passionate web developer. I love developing websites, learning new technologies and harnessing them to create new and exciting things.</h3> <br/>
-          <h5>Please click on <strong>"About"</strong> for more details.</h5>
+          <h3>I am an enthusiastic and passionate software developer. I love learning new technologies and harnessing them to create new and exciting things. Currently, i am actively looking for a fulltime position in an organization. Please click on "About" tab for my profile.</h3> <br/>
            </div>
            <div className="col-md-4">
            <img src="Hari.png" alt="Hari" className="profile-pic"></img>
